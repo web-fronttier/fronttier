@@ -1,0 +1,23 @@
+# JetBrains IDEs
+.idea/
+.idea_modules/
+
+### VisualStudioCode
+.vscode/*
+*.code-workspace
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+### OS X
+.DS_Store
+
+# Dependencies
+node_modules/
+vendor/
+
+# Any logs
+*.log
+
+# Any cache
+*.cache
